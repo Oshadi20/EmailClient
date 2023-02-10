@@ -1,0 +1,7 @@
+Personal: nirosha,niro,wperera736@gmail.com,2000/08/04
+Personal: oshadi,osha,oshadisaumya92@gmail.com,2000/09/04
+Official: abc,abc@gmail.com,manager
+Office_friend: saumya,saumyaperera64@gmail.com,manager,2000/10/10
+Official: kamal,k@gmail.com,ceo
+Official: amali,amali@gmail.com,manager
+official: ravihari,ravi@gmail.com,engineer
